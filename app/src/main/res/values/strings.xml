@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">TP1_GRUPO_7</string>
+    <string name="app_name">TP1</string>
+    <!-- Botones de pantalla principal -->
+    <string name="btn_Ejercicio1">Ejercicio 1</string>
+    <string name="btn_Ejercicio2">Ejercicio 2</string>
+    <string name="tv_Integrantes">Integrantes</string>
+    <!-- Botones de ejercicio 1 -->
+    <string name="tv_Ej1_PrimerNumero">Primer número</string>
+    <string name="tv_Ej1_SegundoNumero">Segundo número</string>
+    <!--<string name="txt_Ej1_PrimerNumero"></string> -->
+    <!-- <string name="txt_Ej1_SegundoNumero"></string> -->
+    <string name="btn_Ej1_Calcular">CALCULAR</string>
+    <string name="tv_Resultado">resultado: </string>
+    <string name="btn_Ej1_Atras">Atras</string>
+    <!-- Botones de ejercicio 2 -->
+
+
 </resources>
